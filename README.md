@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋🏼, I'm <a href="https://mobeigi.com/">Mo!</a></h1>
-<p align="center">I am a Full Stack Developer 📚 from Sydney, Australia. When I am not coding you can typically find me rap battling Slim Shady 🎤 or feeding in video games 🕹️. Please check out my website and add me on some social networks!<p>
+<p align="center">I am a Full Stack Developer 📚 from Sydney, Australia. When I am not coding you can typically find me rap battling Slim Shady 🎤 or feeding in video games 🕹️. Check out my website and add me on some social networks!<p>
 <p align="center">The cake is a lie · YOLO SPY 420C · You just lost the game · <a href="http://go.mobeigi.com/itsatrap">CLICK ME, DO IT!</a> ✌️</p>
 
 ##
