@@ -12,5 +12,5 @@
 <br />
 <br />
 <strong>Stats 👀</strong><br />
-<img src="https://visitor-badge.glitch.me/badge?page_id=mobeigi.mobeigi" />  
+<img src="https://hits.dwyl.com/mobeigi/mobeigi.svg" />  
 </p>
