@@ -12,5 +12,5 @@
 <br />
 <br />
 <strong>Stats 👀</strong><br />
-<img src="https://hits.dwyl.com/mobeigi/mobeigi.svg" />  
+<img src="https://views.whatilearened.today/views/github/mobeigi/mobeigi.svg" />  
 </p>
